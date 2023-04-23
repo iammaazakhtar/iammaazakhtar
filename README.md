@@ -24,22 +24,14 @@
 <br />
 <br />
 
-<!-- ## 🏆 **GITHUB TROPHY**
-
-![](https://github-profile-trophy.vercel.app/?username=codingstella&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET)
-
-<a href="http://www.github.com/codingstella"><img src="https://activity-graph.herokuapp.com/graph?username=codingstella&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<br /> -->
-
-# 📊 GitHub Stats:
+<!-- # 📊 GitHub Stats:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codingstella&show_icons=true&locale=en" alt="codingstella" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codingstella&" alt="codingstella" /></p>
 
 ## 🏆 GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codingstella" alt="codingstella" /></a> </p>
-
+ -->
 
 ## 🌏 **CONNECT WITH ME**
 
@@ -49,24 +41,19 @@
 <!-- <a href="https://www.youtube.com/@codingstella">  -->
 <!--     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" title="Youtube"  alt="Youtube"/> -->
 </a>
-<!-- <a href="mailto:codingstella@gmail.com"> 
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
+ <a href="mailto:maazakhtar4899@gmail.com"> 
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/> -->
 </a> -->
-<!-- <a href="https://www.github.com/codingstella"> 
+<a href="https://www.github.com/https://github.com/iammaazakhtar"> 
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub"  alt="GitHub"/>
-</a> -->
-<!-- <a href="https://twitter.com/codingstellaa"> 
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="Twitter"  alt="Twitter"/>
-</a> -->
+</a> 
 <a href="https://www.facebook.com/profile.php?=100087370156118"> 
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" title="Facebook"  alt="Facebook"/>
 </a>
-<!--<a  href="https://www.linkedin.com/company/hi-coders/">
+<a  href="https://www.linkedin.com/company/https://www.linkedin.com/in/mohammad-maaz-akhtar-9a599a22b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
-</a>-->
-<a href="https://codepen.io/codingstella"> 
-    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" title="Codepen"  alt="Codepen"/>
 </a>
+
 <br />
 
 ## 🕸️ **WEB DEV**
