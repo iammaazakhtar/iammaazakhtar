@@ -25,13 +25,13 @@
 
 # 📊 GitHub Stats: 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Man0sh-r0y&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Man0sh-r0y&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iammaazakhtar&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iammaazakhtar&theme=aura_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Man0sh-r0y&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Man0sh-r0y&theme=aura_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iammaazakhtar&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iammaazakhtar&theme=aura_dark&utcOffset=8)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Man0sh-r0y&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iammaazakhtar&theme=aura_dark)
 
 
 ## 💰 You can help me by Donating
